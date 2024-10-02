@@ -14,12 +14,12 @@
 
 # 🐬 Socials
 - Visit my [Portfolio website](https://badal-kumar-singh-portfolio.vercel.app/)
-<h3 align="center">A passionate fullstack developer, Competitive coder and Open Source enthusiast<br><br>
+<h3>A passionate fullstack developer, Competitive coder and Open Source enthusiast<br><br>
 </h3>
 
 
 <a href="https://www.linkedin.com/in/badal-kumar-singh/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="50" alt="LinkedIn Badge"/></a>  
-| ------------- | ------------- |
+| ------------- |
 
 # <img src="https://cdn-icons-png.flaticon.com/128/2276/2276313.png" height="30" alt="Toolbox"> Toolbox
 [![My Skills](https://skillicons.dev/icons?i=javascript,react,nodejs,expressjs,mysql,mongo,tailwind,cpp,npm&theme=light)](https://github.com/Badalsingh07)
