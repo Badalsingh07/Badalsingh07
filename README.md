@@ -1,3 +1,4 @@
+[![MasterHead](/thumbnail.gif)](https://github.com/Badalsingh07)
 # <h1 align="center">Hi,👋 I'm Badal Kumar Singh</h1>
 
 - 🔭 I’m currently working on **Side projects** 
